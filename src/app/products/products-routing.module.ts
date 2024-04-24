@@ -4,7 +4,7 @@ import { NgModule } from "@angular/core";
 
 
 const routes: Routes = [
-  {path: 'products', component: ProductsPageComponent}
+  {path: '', component: ProductsPageComponent}
 ]
 
 @NgModule({
