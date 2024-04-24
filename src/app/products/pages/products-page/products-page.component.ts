@@ -11,5 +11,5 @@ import { ProductListComponent } from '../../components/product-list/product-list
   styleUrl: './products-page.component.css'
 })
 export class ProductsPageComponent {
-
+  
 }
